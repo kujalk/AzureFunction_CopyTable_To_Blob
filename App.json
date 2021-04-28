@@ -1,0 +1,9 @@
+{
+    "SubscriptionName":"995004a2-3bc9-4405-b022-fefab621a97c",
+    "TenantID":"ffec4f5f-41fd-46bb-9431-8e7433c17e1f",
+    "ResourceGroup":"DemoAzureApp",
+    "StorageAccountName":"janaupworkapp",
+    "Region":"SoutheastAsia",
+    "FunctionAppName":"AzureCopy",
+    "FunctionPath":"E:\\Upwork\\Upwork_AzureTableStorage\\AzureCopy.zip"
+}
